@@ -1,0 +1,1 @@
+"Scaffold Db-Context -Connection "Server=.;Database="";Trusted_Connectiton=true" -Provider

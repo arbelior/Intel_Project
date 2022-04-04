@@ -1,0 +1,15 @@
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\bin\Release\net5.0\2 Buisness Model.deps.json
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\bin\Release\net5.0\2 Buisness Model.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\bin\Release\net5.0\ref\2 Buisness Model.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\bin\Release\net5.0\2 Buisness Model.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\bin\Release\net5.0\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\bin\Release\net5.0\1 Data Layer Access.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\2 Buisness Model.csproj.AssemblyReference.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\2 Buisness Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\2 Buisness Model.AssemblyInfoInputs.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\2 Buisness Model.AssemblyInfo.cs
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\2 Buisness Model.csproj.CoreCompileInputs.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\2 Buisness Model.csproj.CopyComplete
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\2 Buisness Model.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\ref\2 Buisness Model.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\2 Buisness Model\obj\Release\net5.0\2 Buisness Model.pdb

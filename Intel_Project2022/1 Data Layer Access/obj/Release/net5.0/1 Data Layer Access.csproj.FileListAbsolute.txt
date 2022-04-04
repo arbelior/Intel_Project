@@ -1,0 +1,16 @@
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\bin\Release\net5.0\1 Data Layer Access.deps.json
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\bin\Release\net5.0\1 Data Layer Access.runtimeconfig.json
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\bin\Release\net5.0\1 Data Layer Access.runtimeconfig.dev.json
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\bin\Release\net5.0\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\bin\Release\net5.0\ref\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\bin\Release\net5.0\1 Data Layer Access.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\1 Data Layer Access.csproj.AssemblyReference.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\1 Data Layer Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\1 Data Layer Access.AssemblyInfoInputs.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\1 Data Layer Access.AssemblyInfo.cs
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\1 Data Layer Access.csproj.CoreCompileInputs.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\EFCorePluralizer.cs
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\ref\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\1 Data Layer Access.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\1 Data Layer Access\obj\Release\net5.0\1 Data Layer Access.genruntimeconfig.cache

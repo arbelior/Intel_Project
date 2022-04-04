@@ -1,0 +1,108 @@
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\appsettings.Development.json
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\appsettings.json
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\4 RestFull API.exe
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\4 RestFull API.deps.json
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\4 RestFull API.runtimeconfig.json
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\4 RestFull API.runtimeconfig.dev.json
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\4 RestFull API.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\ref\4 RestFull API.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\4 RestFull API.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\AWSSDK.Core.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\FluentEmail.Core.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\FluentEmail.Razor.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\FluentEmail.Smtp.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\NuGet.Common.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\NuGet.Configuration.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\NuGet.Frameworks.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\NuGet.Packaging.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\NuGet.Protocol.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\NuGet.Versioning.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\RazorLight.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\1 Data Layer Access.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\2 Buisness Model.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\3 Buisness Logic.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\3 Buisness Logic.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\1 Data Layer Access.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\bin\Release\net5.0\2 Buisness Model.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.csproj.AssemblyReference.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.AssemblyInfoInputs.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.AssemblyInfo.cs
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.csproj.CoreCompileInputs.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\staticwebassets\4 RestFull API.StaticWebAssets.Manifest.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\staticwebassets\4 RestFull API.StaticWebAssets.xml
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\scopedcss\bundle\4 RestFull API.styles.css
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.RazorTargetAssemblyInfo.cache
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.csproj.CopyComplete
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\ref\4 RestFull API.dll
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.pdb
+C:\Users\lior\Source\Repos\Intel_Project2022\4 RestFull API\obj\Release\net5.0\4 RestFull API.genruntimeconfig.cache
